@@ -1,4 +1,4 @@
-// this is a single line comment 
+//  This is the primitives file  
 //
 
 /* this is 
